@@ -1,2 +1,12 @@
-# aoc2022
-Advent of Code 2022 to learn Rust
+# Advent of Code 2022
+
+https://adventofcode.com/2022
+
+# Instructions
+
+Each challenge is organized in a separate cargo package
+
+```
+cargo new ./day[XX]a
+```
+
